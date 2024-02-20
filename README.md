@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h2 align="center">A passionate Web developer from India</h2>
 
 <img align="right" alt="coding on" width="400px" height="200" src="https://media.licdn.com/dms/image/D4D12AQFRvvQhk6bBSw/article-cover_image-shrink_600_2000/0/1695798546119?e=2147483647&v=beta&t=8eX4Vg-_zsGzgRs3REJWt2-UW9ewZrDYtSdslo-4tT8">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj1342&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj1342" /> </p>
 
-- Backend Developer **(Python-Django)||(Java-Spring)**
+- Backend Developer : Python-Django || Java-Spring 
+- Enthusiastic and highly motivated Backend Developer with a solid understanding of modern backend technologies and frameworks.
+- B.Tech from Computer Science and Engineering
+- Java DSA || Python Django
 
 - 📫 How to reach me **abhiraj1342@gmail.com**
 
@@ -24,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj1342&show_icons=true&locale=en" alt="abhiraj1342" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj1342&" alt="abhiraj1342" /></p>
+
+
+
