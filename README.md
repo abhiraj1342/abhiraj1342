@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj1342&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj1342" /> </p>
 <img align="right" alt="coding on" width="500px" height="400" src="https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
 
-- Backend Developer : Python-Django || Java-Spring 
+- Web Developer 
 - Enthusiastic and highly motivated Backend Developer <br>with a solid understanding of modern backend technologies and frameworks.
 - B.Tech from Computer Science and Engineering
 - Quick learner with a strong problem-solving mindset
