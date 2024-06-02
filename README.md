@@ -8,7 +8,7 @@
 <img align="right" alt="coding on" width="500px" height="400" src="https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
 
 - Web Developer 
-- Enthusiastic and highly motivated Backend Developer <br>with a solid understanding of modern backend technologies and frameworks.
+- Enthusiastic and highly motivated Full stack Developer <br>with a solid understanding of modern backend technologies and frameworks.
 - B.Tech from Computer Science and Engineering
 - Quick learner with a strong problem-solving mindset
 - Data Structures and Algorithms (DSA)
